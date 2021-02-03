@@ -16,7 +16,7 @@ Hi, I'm creazyboyone, A Dreaming developer from China.
 **Languages and Tools:**
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 <a href="https://github.com/creazyboyone">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=creazyboyone&show_icons=true&include_all_commits=true&theme=material-palenight&&hide_title=true" alt="Creazyboyone's github stats" />
