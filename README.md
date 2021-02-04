@@ -21,15 +21,9 @@ Hi, I'm creazyboyone, A Dreaming developer from China.
 <a href="https://github.com/creazyboyone">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=creazyboyone&show_icons=true&include_all_commits=true&theme=material-palenight&&hide_title=true" alt="Creazyboyone's github stats" />
 </a>
-<a href="https://github.com/creazyboyone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creazyboyone&layout=compact&theme=material-palenight" />
-</a>
 
 <br />
 
 <a href="https://github.com/creazyboyone/creazyboyone.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=creazyboyone&repo=creazyboyone.github.io&theme=material-palenight" />
-</a>
-<a href="https://github.com/DST-Tools/DSTEd-C">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=creazyboyone&repo=DSTEd-C&theme=material-palenight" />
 </a>
